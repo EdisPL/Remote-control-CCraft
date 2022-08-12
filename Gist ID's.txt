@@ -1,0 +1,4 @@
+remote bot SINGLE               https://gist.github.com/EdisPL/892bf6a04e11675abed049b6a4df8633
+remote console SINGLE           https://gist.github.com/EdisPL/fa9285becff951bf9e9772fc4555c0e4
+remote bot MULTIPLE             https://gist.github.com/EdisPL/04b0187f65a45b4816652a94e2b168a6
+remote console MULTIPLE         https://gist.github.com/EdisPL/8c7151c3434902785c30d852e5f62a91
